@@ -19,3 +19,23 @@ function smoothScroll(target) {
     getStartedBtn.addEventListener('click', handleGetStartedClick);
   });
   
+// Function to toggle dark mode
+function toggleDarkMode() {
+    const body = document.body;
+    const footer = document.querySelector('footer');
+    const links = document.querySelectorAll('a');
+  
+    body.classList.toggle('dark-mode');
+    footer.classList.toggle('dark-mode');
+    
+    links.forEach(link => {
+      link.classList.toggle('dark-mode');
+    });
+  }
+  
+  // Event listener for the dark mode toggle button
+  document.addEventListener('DOMContentLoaded', function() {
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    darkModeToggle.addEventListener('click', toggleDarkMode);
+  });
+  

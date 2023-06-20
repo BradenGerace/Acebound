@@ -7,8 +7,9 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li, blockquote {
   /* Global styles */
   body {
     font-family: Arial, sans-serif;
-    color: #bbffff;
-    background-color: #3e3e3e;
+    color: #300000;
+    background-color: #e6e6e6;
+    transition: background-color 0.3s ease;
   }
   
   .container {
@@ -18,7 +19,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li, blockquote {
   }
   
   a {
-    color: #fff;
+    color: #2b393e;
     text-decoration: none;
   }
   
@@ -103,7 +104,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li, blockquote {
   }
   
   footer {
-    background-color: #222;
+    background-color: #cdcdcd;
     padding: 20px;
     text-align: center;
   }
@@ -143,4 +144,40 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li, blockquote {
       font-size: 12px;
     }
   }
+
+  body {
+    transition: background-color 0.3s ease;
+  }
+  
+  body.dark-mode {
+    background-color: #111;
+    color: #fff;
+  }
+  
+  footer {
+    transition: background-color 0.3s ease;
+  }
+  
+  footer.dark-mode {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  a {
+    transition: color 0.3s ease;
+  }
+  
+  a.dark-mode {
+    color: #fff;
+  }
+  
+  button#darkModeToggle {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
   
