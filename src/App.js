@@ -25,7 +25,7 @@ function App() {
           <div className="container">
             <h2>Build Your Professional Identity</h2>
             <p>Impress recruiters with stunning resumes & portfolios.</p>
-            <a href="#pricing" className="cta-button">Get Started</a>
+            <a href="#features" className="cta-button">Get Started</a>
           </div>
         </section>
 
