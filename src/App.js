@@ -56,7 +56,7 @@ function App() {
             <div className="pricing-option">
               <div className="pricing-option-header">
                 <h3>Basic</h3>
-                <p>$9.99/month</p>
+                <p>$19.99</p>
               </div>
               <ul>
                 <li>1 Resume</li>
@@ -67,7 +67,7 @@ function App() {
             <div className="pricing-option">
               <div className="pricing-option-header">
                 <h3>Pro</h3>
-                <p>$19.99/month</p>
+                <p>$39.99</p>
               </div>
               <ul>
                 <li>3 Resumes</li>
