@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Acebound/static/css/main.4225b78c.css",
+    "main.js": "/Acebound/static/js/main.9a363ab5.js",
+    "static/js/787.bc7d429a.chunk.js": "/Acebound/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Acebound/index.html",
+    "main.4225b78c.css.map": "/Acebound/static/css/main.4225b78c.css.map",
+    "main.9a363ab5.js.map": "/Acebound/static/js/main.9a363ab5.js.map",
+    "787.bc7d429a.chunk.js.map": "/Acebound/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4225b78c.css",
+    "static/js/main.9a363ab5.js"
+  ]
+}
