@@ -60,7 +60,7 @@ function App() {
               </div>
               <ul>
                 <li>1 Resume</li>
-                <li>Basic Support</li>
+                <li>Choose from three templates</li>
               </ul>
               <a href="#" className="cta-button">Select</a>
             </div>
@@ -71,8 +71,7 @@ function App() {
               </div>
               <ul>
                 <li>3 Resumes</li>
-                <li>Priority Support</li>
-                <li>Custom Domains</li>
+                <li>Choose up to 3 templates</li>
               </ul>
               <a href="#" className="cta-button">Select</a>
             </div>
@@ -83,8 +82,7 @@ function App() {
               </div>
               <ul>
                 <li>Unlimited Resumes</li>
-                <li>Premium Support</li>
-                <li>Advanced Analytics</li>
+                <li>Choose any template or custom Resume</li>
               </ul>
               <a href="#" className="cta-button">Contact Us</a>
             </div>
