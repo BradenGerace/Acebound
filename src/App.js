@@ -8,7 +8,7 @@ function App() {
     <div className="app">
       <header className="header">
         <h1>Acebound</h1>
-        <p>Unlock Your Professional Success</p>
+        <p>Professional business solutions.</p>
         <link rel="stylesheet" href="App.css" />
       </header>
 
