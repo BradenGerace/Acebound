@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Acebound/static/css/main.4225b78c.css",
-    "main.js": "/Acebound/static/js/main.69fc9eae.js",
-    "static/js/787.bc7d429a.chunk.js": "/Acebound/static/js/787.bc7d429a.chunk.js",
-    "index.html": "/Acebound/index.html",
-    "main.4225b78c.css.map": "/Acebound/static/css/main.4225b78c.css.map",
-    "main.69fc9eae.js.map": "/Acebound/static/js/main.69fc9eae.js.map",
-    "787.bc7d429a.chunk.js.map": "/Acebound/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/acebound/static/css/main.4225b78c.css",
+    "main.js": "/acebound/static/js/main.f79079c8.js",
+    "static/js/787.bc7d429a.chunk.js": "/acebound/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/acebound/index.html",
+    "main.4225b78c.css.map": "/acebound/static/css/main.4225b78c.css.map",
+    "main.f79079c8.js.map": "/acebound/static/js/main.f79079c8.js.map",
+    "787.bc7d429a.chunk.js.map": "/acebound/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4225b78c.css",
-    "static/js/main.69fc9eae.js"
+    "static/js/main.f79079c8.js"
   ]
 }
